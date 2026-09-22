@@ -1,3 +1,13 @@
+<!-- adado:brand:v1 -->
+<p align="center"><img src="https://raw.githubusercontent.com/diginoz-com-au/adado-projects/preview/.adado/adado-logo.png" width="96" alt="AdaDo logo" /></p>
+
+<h3 align="center">AdaDo Fork</h3>
+<p align="center"><em>Part of the AdaDo App Store — every app in the AdaDo ecosystem runs as a private, per-user isolated instance.</em></p>
+<p align="center"><a href="https://github.com/makeplane/plane">Upstream: makeplane/plane</a></p>
+
+---
+<!-- /adado:brand:v1 -->
+
 <br /><br />
 
 <p align="center">
